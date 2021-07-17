@@ -1,0 +1,15 @@
+{
+  "name": "monogoaggr",
+  "version": "1.0.0",
+  "description": "The information in this repo is base on the [MongoDB Aggregation Framework Course](https://university.mongodb.com/courses/M121/about).",
+  "main": "1_basic_aggr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.0.0"
+  }
+}
