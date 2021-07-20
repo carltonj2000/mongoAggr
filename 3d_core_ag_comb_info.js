@@ -82,10 +82,8 @@ airlines {
 }
 routes {
     "airline" : {
-            "id" : 410,
             "name" : "Aerocondor",
-            "alias" : "2B",
-            "iata" : "ARD"
+            ...
     },
     "src_airport" : "CEK",
     "dst_airport" : "KZN",
